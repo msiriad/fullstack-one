@@ -37,3 +37,5 @@ coverage/
 .npmrc
 .yarnrc
 .pnpm-store/
+
+.env
